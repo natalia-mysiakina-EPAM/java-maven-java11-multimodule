@@ -18,8 +18,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.epam.edp</groupId>
             <artifactId>java-maven-springboot-multimodule-api</artifactId>
+			<groupId>com.epam.edp</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
